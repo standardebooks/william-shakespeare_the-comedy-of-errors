@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/the-comedy-of-errors</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-27T18:26:27Z</dc:date>
+		<meta property="dcterms:modified">2020-07-27T18:26:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,18 +48,17 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008113056</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two sets of identical twins are mistaken for their lost siblings.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Comedy of Errors&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt;’s earliest and shortest plays. This comedy utilizes slapstick humor, word play, and mistaken identities to create a series of farcical accidents. Over time, the play’s title has become an idiom used to describe “an event or series of events made ridiculous by the number of errors that were made throughout.”&lt;/p&gt;
-			&lt;p&gt;In Ephesus, the law forbids entry to any merchants from Syracuse, and if they are discovered within the city, they must pay a thousand marks or be put to death. Aegeon, an old Syracusian merchant, was arrested. Solinus, the Duke of Ephesus, listens to his story for coming to the city. Long ago, Aegeon was on a sea voyage. Traveling with him was his wife, his twin sons, and their twin slaves. The family becomes separated during a tempest; Aegeon, one son, and one slave were rescued together, the others never to be seen again. Years later his son Antipholus and his slave Dromio left to search for their long lost siblings; after the boys didn’t return, Aegeon set out to bring his son back home. Moved by this story, the duke allows Aegeon one day to get the money to pay his fine and to find his family.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Comedy of Errors&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; earliest and shortest plays. This comedy utilizes slapstick humor, word play, and mistaken identities to create a series of farcical accidents. Over time, the play’s title has become an idiom used to describe “an event or series of events made ridiculous by the number of errors that were made throughout.”&lt;/p&gt;
+			&lt;p&gt;In Ephesus, the law forbids entry to any merchants from Syracuse, and if they are discovered within the city, they must pay a thousand marks or be put to death. Aegeon, an old Syracusian merchant, is arrested and Solinus, the Duke of Ephesus, listens to his story of coming to the city. Long ago, Aegeon was on a sea voyage. Traveling with him was his wife, his twin sons, and their twin slaves. The family becomes separated during a tempest; Aegeon, one son, and one slave were rescued together, and the others were never to be seen again. Years later his son Antipholus and his slave Dromio left to search for their long lost siblings; after the boys didn’t return, Aegeon set out to bring his son back home. Moved by this story, the duke allows Aegeon one day to get the money to pay his fine and to find his family.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1504</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.207279</dc:source>
 		<meta property="se:production-notes">The main text was based on the P.G. version with additional stage directions taken from the William Heinemann’s 1904 edition (marked by square brackets).</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">16503</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Comedy_of_Errors</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-comedy-of-errors</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -84,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
