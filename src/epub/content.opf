@@ -49,6 +49,8 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008113056</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Two sets of identical twins are mistaken for their lost siblings.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Comedy of Errors&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare’s&lt;/a&gt; earliest and shortest plays. This comedy utilizes slapstick humor, word play, and mistaken identities to create a series of farcical accidents. Over time, the play’s title has become an idiom used to describe “an event or series of events made ridiculous by the number of errors that were made throughout.”&lt;/p&gt;
