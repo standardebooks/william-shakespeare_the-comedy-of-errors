@@ -72,7 +72,7 @@
 		<link href="https://id.loc.gov/authorities/names/n78095332.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Anthony van Dyck</dc:contributor>
-		<meta property="file-as" refines="#artist">Dyck, Anthony van</meta>
+		<meta property="file-as" refines="#artist">van Dyck, Anthony</meta>
 		<link href="https://en.wikipedia.org/wiki/Anthony_van_Dyck" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50070302.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
